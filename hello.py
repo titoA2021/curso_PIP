@@ -1,1 +1,1 @@
-print('hello world from vsc')
+print('hello world from vs')
